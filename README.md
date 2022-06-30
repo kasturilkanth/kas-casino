@@ -1,2 +1,2 @@
-# kas-casino
+# casino-app
 Created with CodeSandbox
